@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conjuntos", "Conjuntos\Conjuntos.csproj", "{395AF60D-B29E-4386-9948-EACBE8D34C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ordenamientoBurbuja", "ordenamientoBurbuja\ordenamientoBurbuja.csproj", "{509FCA74-97F0-4A55-8173-F1CC19DF6DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{395AF60D-B29E-4386-9948-EACBE8D34C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395AF60D-B29E-4386-9948-EACBE8D34C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395AF60D-B29E-4386-9948-EACBE8D34C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395AF60D-B29E-4386-9948-EACBE8D34C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509FCA74-97F0-4A55-8173-F1CC19DF6DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509FCA74-97F0-4A55-8173-F1CC19DF6DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509FCA74-97F0-4A55-8173-F1CC19DF6DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509FCA74-97F0-4A55-8173-F1CC19DF6DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

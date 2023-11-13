@@ -1,0 +1,14 @@
+D:\Visual\tarea 11\ordenamientoBurbuja\bin\Debug\net7.0\ordenamientoBurbuja.exe
+D:\Visual\tarea 11\ordenamientoBurbuja\bin\Debug\net7.0\ordenamientoBurbuja.deps.json
+D:\Visual\tarea 11\ordenamientoBurbuja\bin\Debug\net7.0\ordenamientoBurbuja.runtimeconfig.json
+D:\Visual\tarea 11\ordenamientoBurbuja\bin\Debug\net7.0\ordenamientoBurbuja.dll
+D:\Visual\tarea 11\ordenamientoBurbuja\bin\Debug\net7.0\ordenamientoBurbuja.pdb
+D:\Visual\tarea 11\ordenamientoBurbuja\obj\Debug\net7.0\ordenamientoBurbuja.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\tarea 11\ordenamientoBurbuja\obj\Debug\net7.0\ordenamientoBurbuja.AssemblyInfoInputs.cache
+D:\Visual\tarea 11\ordenamientoBurbuja\obj\Debug\net7.0\ordenamientoBurbuja.AssemblyInfo.cs
+D:\Visual\tarea 11\ordenamientoBurbuja\obj\Debug\net7.0\ordenamientoBurbuja.csproj.CoreCompileInputs.cache
+D:\Visual\tarea 11\ordenamientoBurbuja\obj\Debug\net7.0\ordenamientoBurbuja.dll
+D:\Visual\tarea 11\ordenamientoBurbuja\obj\Debug\net7.0\refint\ordenamientoBurbuja.dll
+D:\Visual\tarea 11\ordenamientoBurbuja\obj\Debug\net7.0\ordenamientoBurbuja.pdb
+D:\Visual\tarea 11\ordenamientoBurbuja\obj\Debug\net7.0\ordenamientoBurbuja.genruntimeconfig.cache
+D:\Visual\tarea 11\ordenamientoBurbuja\obj\Debug\net7.0\ref\ordenamientoBurbuja.dll

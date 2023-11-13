@@ -1,0 +1,14 @@
+D:\Visual\tarea 11\Conjuntos\obj\Debug\net7.0\Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\tarea 11\Conjuntos\obj\Debug\net7.0\Conjuntos.AssemblyInfoInputs.cache
+D:\Visual\tarea 11\Conjuntos\obj\Debug\net7.0\Conjuntos.AssemblyInfo.cs
+D:\Visual\tarea 11\Conjuntos\obj\Debug\net7.0\Conjuntos.csproj.CoreCompileInputs.cache
+D:\Visual\tarea 11\Conjuntos\bin\Debug\net7.0\Conjuntos.exe
+D:\Visual\tarea 11\Conjuntos\bin\Debug\net7.0\Conjuntos.deps.json
+D:\Visual\tarea 11\Conjuntos\bin\Debug\net7.0\Conjuntos.runtimeconfig.json
+D:\Visual\tarea 11\Conjuntos\bin\Debug\net7.0\Conjuntos.dll
+D:\Visual\tarea 11\Conjuntos\bin\Debug\net7.0\Conjuntos.pdb
+D:\Visual\tarea 11\Conjuntos\obj\Debug\net7.0\Conjuntos.dll
+D:\Visual\tarea 11\Conjuntos\obj\Debug\net7.0\refint\Conjuntos.dll
+D:\Visual\tarea 11\Conjuntos\obj\Debug\net7.0\Conjuntos.pdb
+D:\Visual\tarea 11\Conjuntos\obj\Debug\net7.0\Conjuntos.genruntimeconfig.cache
+D:\Visual\tarea 11\Conjuntos\obj\Debug\net7.0\ref\Conjuntos.dll
